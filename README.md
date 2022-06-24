@@ -1,2 +1,1 @@
-# React-Applications
-Some useful react apps
+# Expense Tracker
